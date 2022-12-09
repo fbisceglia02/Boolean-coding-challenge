@@ -1,0 +1,143 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: url("../img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.scritte h3{
+    color:white;
+    font-size: 25px;
+}
+
+.scritte p{
+    color:white;
+}
+
+#opacizzato{
+    width: 70%;
+    background-color: black;
+    position: absolute;
+    margin-left: 15%;
+    height: 85%;
+    margin-top: 5%;
+    border-radius: 20px;
+    opacity: 60%;
+}
+
+#normale{
+    width: 70%;
+    position: absolute;
+    margin-left: 15%;
+    height: 85%;
+    margin-top: 2%;
+    border-radius: 80px;
+}
+
+#conbot{
+    margin: 0;
+    background-color: lime;
+    width:80%;
+    margin-left: 12%;
+    margin-top:0;
+}
+
+#mono1{
+    margin-left: 12%;
+    margin-bottom: 5px;
+}
+
+
+
+
+
+input[type=checkbox]{
+    transform: scale(1.2)
+}
+
+#mongino{
+    display: inline-block;    
+    box-sizing: border-box;
+    
+}
+#mono_gino{
+    margin-bottom: 0px;
+}
+
+#via_gino{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+
+
+#cargino{
+    margin-top: 0px;
+    display: inline-block;
+    background-color: #f5b453;
+    height: 31px;
+    width:345px;
+}
+
+#stato_gino{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#carica_gino{
+    height: 31px;
+    width: 350px;
+    background-color: #f5b453;
+}
+
+/*monopattino mike*/
+
+#mono2{
+    margin-left: 12%;
+}
+
+#mono_mike{
+    margin-bottom: 0px;
+}
+
+#via_mike{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#stato_mike{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#carica_mike{
+    height: 31px;
+    width: 596px;
+    background-color: #1ec31e;
+}
+
+/*monopattino fede*/
+
+#mono3{
+    margin-left: 12%;
+}
+
+#mono_fede{
+    margin-bottom: 0px;
+}
+
+#via_fede{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#stato_fede{
+    margin-top: 5px;
+    margin-bottom: 0px;
+}
+
+#carica_fede{
+    height: 31px;
+    width: 152px;
+    background-color: #be4141;
+}
